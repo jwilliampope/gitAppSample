@@ -1,0 +1,1 @@
+testing gitignore with  dummy error log
